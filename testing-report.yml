@@ -5,39 +5,39 @@
 
 - summary: |
     Проверка входа пользователя с несуществующими логином и паролем
-  status: pass
+  status: fail
 
 - summary: |
     Проверка функции добавления товаров в корзину
-  status: pass
+  status: fail
   
 - summary: |
     Проверка функции добавления товаров в корзину для авторизованного пользователя
-  status: pass
+  status: fail
   
 - summary: |
     Проверка функции оформления заказа для неавторизованного пользователя
-  status: pass
+  status: fail
   
 - summary: |
     Проверка функции оформления заказа для авторизованного пользователя
-  status: pass
+  status: fail
   
 - summary: |
     Проверка функции удаления товаров из корзины
-  status: pass
+  status: fail
 
 - summary: |
     Проверка функции удаления товаров из корзины для авторизованного пользователя
-  status: pass
+  status: fail
   
 - summary: |
     Проверка функционала кнопки "Очистить корзину"
-  status: pass
+  status: fail
   
 - summary: |
     Проверка функционала кнопки "Очистить корзину" для авторизованного пользователя
-  status: pass
+  status: fail
   
 - summary: |
     Проверка корректности работы корзины
@@ -45,27 +45,23 @@
   
 - summary: |
     Проверка корректности работы фильтров
-  status: pass
+  status: fail
   
 - summary: |
     Проверка функции просмотра товара
-  status: pass
+  status: fail
   
 - summary: |
     Проверка сайта на мультиязычность
-  status: pass
-  
-- summary: |
-    Проверка сайта на мультиязычность
-  status: pass
+  status: fail
   
 - summary: |
     Проверка сайта на соответствие SPA
-  status: pass
+  status: fail
   
 - summary: |
     Проверка мобильной адаптивности
-  status: pass
+  status: fail
   
 - summary: |
     Анализ протокола безопасности
