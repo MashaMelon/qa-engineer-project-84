@@ -76,23 +76,23 @@ test-cases:
     Проверка работы сайта при отсутствии подключения к сети интернет
   status: pass
   
- - summary: |
+- summary: |
     Проверка формата изображений товаров
   status: pass
   
- - summary: |
+- summary: |
     Проверка верстки сайта
   status: fail
     
- - summary: |
+- summary: |
     Проверка функции сброса фильтров
   status: pass
   
- - summary: |
+- summary: |
     Проверка поля "От" в фильтре цены
   status: fail
   
-   - summary: |
+- summary: |
     Проверка поля "До" в фильтре цены
   status: fail
 
