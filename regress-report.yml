@@ -87,6 +87,14 @@ test-cases:
  - summary: |
     Проверка функции сброса фильтров
   status: pass
+  
+ - summary: |
+    Проверка поля "От" в фильтре цены
+  status: fail
+  
+   - summary: |
+    Проверка поля "До" в фильтре цены
+  status: fail
 
 bugreports:
   - summary: |
