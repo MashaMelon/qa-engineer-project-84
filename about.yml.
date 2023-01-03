@@ -1,11 +1,10 @@
 ---
-name: Masha Pashinina # 
+name: Masha Pashinina 
 job: QA Engineer
 level: junior
 email: pashininamasha@mail.ru
-description: |
 
-skills: # 
+skills:
   - функциональное тестирование
   - написание багрепортов
   - написание тест-кейсов
