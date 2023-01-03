@@ -6,7 +6,6 @@
   prerequisites: |
     Открыта страница логина
   test-data: |
-    Тестовые данные
     Логин = ilona Пароль = password
   steps:
     - Ввести логин
